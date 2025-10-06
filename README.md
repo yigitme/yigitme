@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yigitme
-- 👀 I’m interested in CFD and programming
-- 🌱 I’m currently learning cpp
+- 👀 computer vision
 
 
 <!---
